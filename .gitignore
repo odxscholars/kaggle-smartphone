@@ -1,13 +1,8 @@
-# Data — downloaded from Kaggle, not tracked
-data/
-*.zip
-*.csv
-
 # Model artifacts
-models/
+models/*
+!models/.gitkeep
 *.pkl
 *.joblib
-*.txt.model
 
 # Python
 __pycache__/
