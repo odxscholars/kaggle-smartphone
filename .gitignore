@@ -13,3 +13,6 @@ venv/
 
 # IDE
 .idea/
+
+# generated predictions
+submission.csv

@@ -20,7 +20,7 @@ jupyter lab
 ```
 data/                 competition CSVs (tracked in this repo)
   train.csv           691,369 rows x 14 cols
-  test.csv            345,685 rows x 13 cols
+  test.csv            296,302 rows x 13 cols
   sample_submission.csv
 models/               model artifacts (gitignored)
 01_eda.ipynb          initial data description and EDA
